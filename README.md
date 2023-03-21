@@ -4,7 +4,7 @@
 - 💞️ In my free time I work on some small Machine Learning and Deep Learning projects
 - 📫 Love to play with real world data
 
-## Languages and tools
+## :hammer_and_wrench: Languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
@@ -20,7 +20,7 @@
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI"  alt="PowerBI" width="60" height="60"/>&nbsp;
 </div>
 
-## :fire: My Stats :
+## :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishnu-the-analyst&theme=dark&background=000000)](https://git.io/streak-stats)
 
