@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishnu
-- 👀 I am working as Business Intelligence Analyst @Workday
+- 👀 I am working as Business Intelligence Analyst @Workday with 3.5 years data analyst experience
 - 🌱 Exploring the vast ocean of Data Science, recent graduate of Masters in Data Science
 - 💞️ In my free time I work on some small Machine Learning and Deep Learning projects
 - 📫 Love to play with real world data
